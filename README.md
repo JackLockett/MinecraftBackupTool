@@ -1,6 +1,6 @@
 # Minecraft Backup Tool
 
-A simple Python script to automatically back up Minecraft worlds, organising them with timestamps for easy management and restoration.
+A simple Python script to automatically back up Minecraft Java Edition worlds, organising them with timestamps for easy management and restoration.
 
 ## Features
 
